@@ -3,8 +3,8 @@ using System.Threading;
 
 namespace Chapter1 
 {
-    //LISTING 1-1 Creating a thread with the Thread class 
-    public static class Listing1_1    
+    //LISTING 1-2 Using a background thread
+    public static class Listing1_2    
     {        
         public static void ThreadMethod()      
         {          

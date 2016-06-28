@@ -44,7 +44,11 @@
     <None Include="Listing1_3 .cs" />
     <None Include="Listing1_2.cs" />
     <None Include="Listing1_1.cs" />
-    <Compile Include="Listing1_4.cs" />
+    <Compile Include="Listing1_8.cs" />
+    <None Include="Listing1_7.cs" />
+    <None Include="Listing1_5.cs" />
+    <None Include="Listing1_4.cs" />
+    <None Include="Listing1_6.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

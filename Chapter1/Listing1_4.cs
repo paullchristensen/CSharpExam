@@ -3,7 +3,7 @@ using System.Threading;
 
 namespace Chapter1 
 {
-    //LISTING 1-1 Creating a thread with the Thread class 
+    //LISTING 1-4  Stopping a thread 
     public static class Listing1_4    
     {        
                

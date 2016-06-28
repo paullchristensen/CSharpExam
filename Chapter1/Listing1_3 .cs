@@ -3,7 +3,7 @@ using System.Threading;
 
 namespace Chapter1 
 {
-    //LISTING 1-1 Creating a thread with the Thread class 
+    //LISTING 1-3 Using the ParameterizedThreadStart 
     public static class Listing1_3    
     {        
         public static void ThreadMethod(object o)      

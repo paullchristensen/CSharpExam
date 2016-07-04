@@ -44,7 +44,14 @@
     <None Include="Listing1_3 .cs" />
     <None Include="Listing1_2.cs" />
     <None Include="Listing1_1.cs" />
-    <Compile Include="Listing1_8.cs" />
+    <Compile Include="Listing1_15.cs" />
+    <None Include="Listing1_14.cs" />
+    <None Include="Listing1_13.cs" />
+    <None Include="Listing1_12.cs" />
+    <None Include="Listing1_11.cs" />
+    <None Include="Listing1_10.cs" />
+    <None Include="Listing1_9.cs" />
+    <None Include="Listing1_8.cs" />
     <None Include="Listing1_7.cs" />
     <None Include="Listing1_5.cs" />
     <None Include="Listing1_4.cs" />
